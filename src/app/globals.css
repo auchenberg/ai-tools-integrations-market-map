@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Base colors */
+  --bg-color: #f7f7f7;
+  --text-primary: #161616;
+  --text-secondary: #686868;
+  --border-color: #a2a2a2;
+
+  /* Layer 1 - Foundation/Primitives (Hardware/Silicon) */
+  --layer1-bg: #1a1818; /* Dark hardware layer */
+  --layer1-text: #ffffff; /* Light text for contrast */
+
+  /* Layer 2 - Infrastructure (System) */
+  --layer2-bg: #2d3748; /* Dark system layer */
+  --layer2-text: #ffffff; /* Light text for contrast */
+
+  /* Layer 3 - Intelligence (Processing) */
+  --layer3-bg: #3d4a63; /* Medium processing layer */
+  --layer3-text: #ffffff; /* Light text for contrast */
+
+  /* Layer 4 - Interface (Human) */
+  --layer4-bg: #4a5d82; /* Lighter interface layer */
+  --layer4-text: #ffffff; /* Light text for contrast */
+
+  /* Layer 5 - Application (User) */
+  --layer5-bg: #5a71a0; /* Lightest application layer */
+  --layer5-text: #ffffff; /* Light text for contrast */
+}
+
+body {
+  @apply bg-[--bg-color] text-[--text-primary];
+}

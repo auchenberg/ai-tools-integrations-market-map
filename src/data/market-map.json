@@ -1,0 +1,689 @@
+{
+  "title": {
+    "heading": "AI tools and integrations market map",
+    "subtitle": "Startups enabling AIs and agentic systems to interact with the world"
+  },
+  "layers": [
+    {
+      "number": 1,
+      "color": "#5f6ad3",
+      "name": "PRIMITIVES LAYER",
+      "description": "The computing backbone that enables AI development and deployment, from development environments to model serving platforms.",
+      "sections": [
+        {
+          "name": "Runtimes",
+          "description": "Development environments for sandboxing and building AI applications",
+          "companies": [
+            {
+              "name": "Funct",
+              "description": "",
+              "logo": "",
+              "link": "https://funct.me/",
+              "github": "",
+              "x": "@funct",
+              "zoom": "70"
+            },
+            {
+              "name": "Langbase",
+              "description": "Langbase provides a serverless AI development platform featuring BaseAI (Web AI Framework), composable AI Pipes for agent development, 50-100x cheaper serverless RAG, unified LLM API access, and collaboration tools, with enterprise-grade security and observability.",
+              "logo": "/images/langbase.svg",
+              "link": "https://langbase.com/",
+              "x": "@langbaseinc"
+            }
+          ]
+        },
+        {
+          "name": "Operating systems",
+          "description": "Development environments for sandboxing and building AI applications",
+          "companies": [
+            {
+              "name": "/dev/agents",
+              "description": "Next-gen operating system for AI Agents.",
+              "logo": "",
+              "link": "https://sdsa.ai",
+              "x": "@sdsa"
+            }
+          ]
+        },
+        {
+          "name": "Protocols",
+          "description": "Protocols for AI Agents",
+          "companies": [
+            {
+              "name": "MCP",
+              "description": "A protocol for seamless integration between LLM applications and external data sources",
+              "logo": "/images/mcp.png",
+              "link": "https://github.com/modelcontextprotocol",
+              "github": "",
+              "x": "@AnthropicAI"
+            }
+          ]
+        },
+        {
+          "name": "AI and model providers",
+          "description": "Services for deploying and running AI models",
+          "companies": [
+            {
+              "name": "OpenAI",
+              "description": "OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, and Sora, focusing on creating safe AGI that benefits humanity through products spanning language models, image generation, and video creation while maintaining leadership in AI research and safety.",
+              "logo": "/images/openai.png",
+              "link": "https://openai.com/",
+              "github": "",
+              "x": "@OpenAI"
+            },
+            {
+              "name": "Anthropic",
+              "description": "Anthropic provides frontier AI models through the Claude family, emphasizing safety and reliability, with offerings including Claude 3.5 Sonnet and Haiku. Their models feature advanced capabilities in reasoning, coding, and computer use, while maintaining strong safety standards through Constitutional AI and comprehensive testing.",
+              "logo": "/images/anthropic.svg",
+              "zoom": "70",
+              "link": "https://www.anthropic.com/",
+              "github": "",
+              "x": "@AnthropicAI"
+            },
+            {
+              "name": "Mistral AI",
+              "description": "Mistral AI provides frontier AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.",
+              "logo": "/images/mistral-ai.svg",
+              "link": "https://mistral.ai/",
+              "github": "",
+              "x": "@MistralAI",
+              "zoom": "90"
+            },
+            {
+              "name": "Groq",
+              "description": "Groq provides ultra-fast AI inference infrastructure for openly-available models like Llama 3.1, Mixtral, and Gemma, offering OpenAI-compatible API endpoints with industry-leading speed and simple three-line integration for existing applications.",
+              "logo": "/images/groq.svg",
+              "link": "https://groq.com/",
+              "github": "",
+              "x": "@GroqInc",
+              "zoom": "70"
+            },
+            {
+              "name": "Cohere",
+              "description": "Cohere provides an enterprise AI platform featuring advanced language models, embedding, and retrieval capabilities that enables businesses to build production-ready AI applications with flexible deployment options across cloud or on-premises environments.",
+              "logo": "/images/cohere.svg",
+              "link": "https://cohere.com/",
+              "github": "",
+              "x": "@CohereForAI"
+            },
+            {
+              "name": "Hugging Face",
+              "description": "Hugging Face provides fully managed inference infrastructure for ML models with support for multiple hardware options (CPU, GPU, TPU) across various cloud providers, offering autoscaling and dedicated deployments with enterprise-grade security.",
+              "logo": "/images/huggingface.png",
+              "link": "https://huggingface.co/",
+              "github": "",
+              "x": "@huggingface"
+            },
+            {
+              "name": "Cartesia",
+              "description": "Cartesia AI delivers real-time multimodal intelligence through state space models that enable fast, private, and offline inference capabilities across devices, offering streaming-first solutions with constant memory usage and low latency.",
+              "logo": "/images/cartesia.svg",
+              "link": "https://www.cartesia.ai/",
+              "github": "",
+              "x": "@cartesia_ai"
+            },
+            {
+              "name": "Fireworks",
+              "description": "Provides easy access to open-source language models through a simple API, similar to offerings from closed-source providers.",
+              "logo": "/images/fireworks-ai.svg",
+              "zoom": "80",
+              "link": "https://fireworks.ai/",
+              "github": "",
+              "x": "@FireworksAI_HQ"
+            },
+            {
+              "name": "Together.AI",
+              "description": "Offers an API for accessing and running open-source LLMs, facilitating seamless integration into AI applications.",
+              "logo": "/images/together-ai.svg",
+              "link": "https://together.ai/",
+              "github": "",
+              "x": "@togethercompute"
+            },
+            {
+              "name": "Google Vertex AI",
+              "description": "End-to-end platform for deploying and managing AI models, including LLMs, with integrated tools for monitoring, versioning, and scaling.",
+              "logo": "/images/vertex.png",
+              "link": "https://cloud.google.com/vertex-ai",
+              "hidden": "true",
+              "x": "@GoogleAI"
+            },
+            {
+              "name": "Amazon Bedrock",
+              "description": "Amazon Bedrock is a fully managed service that provides access to leading foundation models through a unified API, featuring customization capabilities through fine-tuning and RAG, managed AI agents for workflow automation, and enterprise-grade security with HIPAA and GDPR compliance.",
+              "logo": "/images/amazon-bedrock.png",
+
+              "link": "https://aws.amazon.com/bedrock/",
+              "github": "",
+              "x": "@awscloud"
+            },
+            {
+              "name": "Replicate",
+              "description": "Serverless platform for running machine learning models, allowing developers to deploy and scale models without managing infrastructure.",
+              "logo": "/images/replicate.svg",
+              "link": "https://replicate.com/",
+              "github": "",
+              "x": "@replicate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "FRAMEWORK LAYER",
+      "description": "The cognitive foundation featuring frameworks, knowledge engines, and specialized models that power AI capabilities.",
+      "sections": [
+        {
+          "name": "Frameworks",
+          "description": "Core libraries and building blocks for AI application development",
+          "companies": [
+            {
+              "name": "CrewAI",
+              "description": "CrewAI provides a comprehensive platform for building, deploying, and managing multi-agent AI systems, offering both open-source framework and enterprise solutions with support for any LLM and cloud platform, enabling organizations to create automated workflows across various industries.",
+              "logo": "/images/crewai.svg",
+              "link": "https://www.crewai.com/",
+              "github": "",
+              "x": "@getcrewai"
+            },
+            {
+              "name": "LangChain",
+              "description": "",
+              "logo": "/images/langchain.png",
+              "link": "https://www.langchain.com/",
+              "github": "https://github.com/langchain-ai",
+              "x": "@LangChainAI"
+            },
+            {
+              "name": "LlamaIndex",
+              "description": "",
+              "logo": "/images/llamaindex.svg",
+              "link": "https://www.llamaindex.ai/",
+              "github": "https://github.com/run-llama",
+              "x": "@llama_index"
+            },
+            {
+              "name": "Haystack",
+              "description": "",
+              "logo": "/images/haystack.png",
+              "link": "https://haystack.deepset.ai/",
+              "github": "https://github.com/deepset-ai/haystack",
+              "x": "@Haystack_AI"
+            },
+            {
+              "name": "Pydantic AI",
+              "description": "",
+              "logo": "/images/pydantic-ai.svg",
+              "link": "https://ai.pydantic.dev/",
+              "github": "https://github.com/pydantic/pydantic-ai",
+              "x": "@pydantic"
+            },
+            {
+              "name": "Letta",
+              "description": "Provides an agent development platform with advanced memory management for LLMs, enabling developers to build, deploy, and scale production-ready AI agents with transparent reasoning and model-agnostic flexibility.",
+              "logo": "/images/letta.png",
+              "link": "https://www.letta.com/",
+              "github": "https://github.com/letta-ai/letta",
+              "x": "@Letta_AI"
+            },
+            {
+              "name": "AutoGen",
+              "description": "Framework for developing LLM applications with multiple conversational agents that collaborate and interact with humans.",
+              "logo": "/images/autogen.svg",
+              "link": "https://github.com/microsoft/autogen",
+              "github": "https://github.com/microsoft/autogen",
+              "x": "@pyautogen",
+              "zoom": "70"
+            },
+            {
+              "name": "TaskWeaver",
+              "description": "A framework for creating and managing workflows and tasks for AI agents.",
+              "logo": "",
+              "link": "https://microsoft.github.io/TaskWeaver/",
+              "github": "https://github.com/microsoft/TaskWeaver"
+            },
+            {
+              "name": "Promptflow",
+              "description": "Promptflow is Microsoft's open-source development framework for LLM applications, offering tools for flow creation, testing, evaluation, and deployment, featuring visual flow design through VS Code extension, built-in evaluation metrics, and CI/CD integration capabilities.",
+              "logo": "",
+              "link": "https://microsoft.github.io/promptflow/index.html"
+            },
+            {
+              "name": "LLMStack",
+              "description": "LLMStack is an open-source platform for building AI agents, workflows, and applications, featuring model chaining across major providers, data integration from multiple sources (PDFs, URLs, Audio, Drive), and collaborative development capabilities with granular permissions.",
+              "logo": "/images/llmstack.svg",
+              "link": "https://llmstack.ai/",
+              "github": "https://github.com/trypromptly/LLMStack",
+              "x": "@llmstack"
+            },
+            {
+              "name": "Superagent",
+              "description": "",
+              "logo": "/images/superagent.png",
+              "link": "https://docs.superagent.sh/overview/overview/introduction",
+              "zoom": "80"
+            },
+            {
+              "name": "CopilotKit",
+              "description": "CopilotKit is an open-source framework for building custom AI copilots and assistants into any application. Features include In-App AI Chatbot, Generative UI, Copilot Tasks, and RAG capabilities, with easy integration and full customization options.",
+              "logo": "/images/copilot-kit.png",
+              "link": "https://copilotkit.ai/",
+              "github": "https://github.com/CopilotKit/CopilotKit",
+              "x": "@CopilotKit"
+            },
+            {
+              "name": "OpenAI Swarm",
+              "description": "A framework for orchestrating multiple AI agents to solve complex tasks through collaboration and emergent behavior",
+              "logo": "/images/openai.png",
+              "link": "https://github.com/openai/swarm",
+              "github": "https://github.com/openai/swarm",
+              "x": "@OpenAI"
+            },
+            {
+              "name": "CAMEL",
+              "description": "Communicative Agents for 'Mind' Exploration of Large Scale Language Model Society - a framework for building and studying multi-agent AI systems",
+              "logo": "/images/camel-ai.png",
+              "link": "https://www.camel-ai.org/",
+              "github": "https://github.com/camel-ai/camel",
+              "x": ""
+            },
+            {
+              "name": "Auto-GPT",
+              "description": "An experimental open-source framework for autonomous GPT-4 instances, enabling AI agents to work independently on complex tasks",
+              "logo": "/images/agpt.png",
+              "link": "https://agpt.co/",
+              "github": "https://github.com/Significant-Gravitas/Auto-GPT",
+              "x": "@Auto_GPT"
+            },
+            {
+              "name": "BaseAI",
+              "description": "A web-first AI framework for building and deploying AI applications with built-in security and scalability features",
+              "logo": "/images/baseai.png",
+              "link": "https://baseai.dev/",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "AgentKit",
+              "description": "AgentKit is a framework for creating and orchestrating AI Agents, from single model inference calls to multi-agent systems that use tools.",
+              "logo": "/images/agentkit.svg",
+              "link": "https://agentkit.inngest.com/overview",
+              "github": "",
+              "x": "",
+              "zoom": "80"
+            },
+            {
+              "name": "AI SDK by Vercel",
+              "description": "The AI Toolkit for TypeScript",
+              "logo": "/images/aisdk.png",
+              "link": "https://sdk.vercel.ai/",
+              "github": "",
+              "x": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "CAPABILITIES LAYER",
+      "description": "Development resources for building production-ready AI applications, including training tools, testing frameworks, and quality assurance solutions.",
+      "sections": [
+        {
+          "name": "Computer interfaces",
+          "description": "",
+          "companies": [
+            {
+              "name": "Anthropic",
+              "description": "Anthropic provides frontier AI models through the Claude family, emphasizing safety and reliability, with offerings including Claude 3.5 Sonnet and Haiku. Their models feature advanced capabilities in reasoning, coding, and computer use, while maintaining strong safety standards through Constitutional AI and comprehensive testing.",
+              "logo": "/images/anthropic.svg",
+              "zoom": "70",
+              "link": "https://www.anthropic.com/",
+              "github": "",
+              "x": "@AnthropicAI"
+            },
+            {
+              "name": "Scrapybara",
+              "description": "",
+              "link": "https://scrapybara.com/",
+              "github": "",
+              "x": "@scrapybara"
+            },
+            {
+              "name": "E2B",
+              "description": "E2B provides an open-source runtime platform that enables developers to securely execute AI-generated code in cloud sandboxes, supporting multiple languages and frameworks for AI-powered development use cases.",
+              "logo": "/images/e2b-dev.png",
+              "link": "https://e2b.dev/",
+              "github": "",
+              "x": "@e2b_dev"
+            }
+          ]
+        },
+
+        {
+          "name": "Code interpreters and code sandboxes",
+          "description": "",
+          "companies": [
+            {
+              "name": "E2B",
+              "description": "E2B provides an open-source runtime platform that enables developers to securely execute AI-generated code in cloud sandboxes, supporting multiple languages and frameworks for AI-powered development use cases.",
+              "logo": "/images/e2b-dev.png",
+              "link": "https://e2b.dev/",
+              "github": "",
+              "x": "@e2b_dev"
+            },
+            {
+              "name": "GitPod",
+              "description": "",
+              "link": "https://www.gitpod.io/",
+              "github": "",
+              "x": "@gitpod"
+            },
+            {
+              "name": "Sola",
+              "description": "",
+              "link": "https://www.sola-solutions.com/   ",
+              "github": "",
+              "x": "@scrapybara"
+            },
+            {
+              "name": "Webcontainers",
+              "description": "",
+              "link": "https://webcontainers.io/ ",
+              "github": "",
+              "x": "@Webcontainers"
+            },
+            {
+              "name": "forevervm",
+              "description": "",
+              "link": "https://forevervm.com ",
+              "github": ""
+            },
+            {
+              "name": "Daytona",
+              "description": "",
+              "logo": "/images/daytonaio.png",
+              "link": "https://daytona.io/",
+              "github": ""
+            },
+            {
+              "name": "Modal",
+              "description": "Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.",
+              "logo": "/images/modal.svg",
+              "link": "https://modal.com/",
+              "github": "",
+              "x": "@modal_labs"
+            }
+          ]
+        },
+
+        {
+          "name": "Browser interfaces",
+          "description": "Browser automation and web interface solutions for AI systems",
+          "companies": [
+            {
+              "name": "Browserbase",
+              "description": "Browser automation platform for AI systems",
+              "logo": "/images/browserbase.svg",
+              "link": "https://www.browserbase.com/",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "Browser Use",
+              "description": "Web interface and browser automation solutions for AI",
+              "logo": "/images/browser-use.png",
+              "link": "https://browser-use.com/",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "Zeta Labs",
+              "description": "AI-powered browser automation and web interaction platform",
+              "logo": "/images/zetalabs.svg",
+              "link": "https://www.zetalabs.ai/",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "Twin",
+              "description": "Web automation and browser interface platform for AI systems",
+              "logo": "/images/twin.png",
+              "link": "https://twin.so/",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "Steel",
+              "description": "Browser Infrastructure for AI Agents",
+              "logo": "/images/steel.svg",
+              "link": "https://steel.dev/",
+              "github": "",
+              "x": "",
+              "zoom": "60"
+            }
+          ]
+        },
+
+        {
+          "name": "Payments",
+          "description": "Payment infrastructure and solutions for AI systems",
+          "companies": [
+            {
+              "name": "PaymanAI",
+              "description": "Payment infrastructure for AI systems",
+              "logo": "/images/payman.svg",
+              "link": "https://www.paymanai.com/",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "Skyfire",
+              "description": "AI-powered payment solutions",
+              "logo": "/images/skyfire.svg",
+              "link": "https://skyfire.xyz/",
+              "github": "",
+              "x": "",
+              "zoom": "70"
+            },
+            {
+              "name": "Protegee",
+              "description": "Turn Your AI Voice Agents into Revenue Centers",
+              "logo": "/images/protegee.png",
+              "link": "https://protegee.ai/",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "Stripe",
+              "description": "Global payment infrastructure with specialized solutions for AI companies, offering usage-based billing, subscription management, and compliance tools",
+              "logo": "/images/stripe.svg",
+              "link": "https://stripe.com/",
+              "github": "",
+              "x": "@stripe",
+              "zoom": "70"
+            }
+          ]
+        },
+
+        {
+          "name": "Web Scraping and data extraction",
+          "description": "Web scraping and data extraction solutions for AI systems",
+          "companies": [
+            {
+              "name": "Firecrawl",
+              "description": "High-performance web scraping infrastructure for AI applications",
+              "logo": "/images/firecrawl.png",
+              "link": "https://www.firecrawl.dev/",
+              "github": "",
+              "x": "",
+              "zoom": "140"
+            },
+            {
+              "name": "Tinyfish",
+              "description": "AI-powered web scraping and data extraction platform",
+              "link": "https://www.tinyfish.io/",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "Graphlit",
+              "description": "Graphlit is a serverless, batteries-included, RAG-as-a-Service platform. Graphlit manages data ingestion, vector embeddings, and LLM flows — allowing teams to quickly build AI apps and agents without the burden of complex data infrastructure.",
+              "logo": "/images/graphlit.png",
+              "link": "https://www.graphlit.com/",
+              "github": "https://github.com/graphlit",
+              "x": "@graphlit",
+              "zoom": "140"
+            }
+          ]
+        },
+
+        {
+          "name": "Identity, Authorization & Authentication",
+          "description": "Identity management and authentication solutions for AI systems",
+          "companies": [
+            {
+              "name": "Composio AgentAuth",
+              "description": "Authentication and authorization platform specifically designed for AI agents and LLMs, providing managed authentication and security controls for AI applications",
+              "logo": "/images/composio.svg",
+              "link": "https://composio.dev/agentauth/",
+              "github": "https://github.com/ComposioHQ/composio/tree/master/python/swe",
+              "x": "@composiohq"
+            },
+            {
+              "name": "Auth0",
+              "description": "Enterprise authentication platform with specialized solutions for GenAI applications, offering secure access control and identity management",
+              "logo": "/images/auth0.png",
+              "link": "https://auth0.com/blog/auth-for-genai/",
+              "github": "",
+              "zoom": "120",
+              "x": "@auth0"
+            },
+            {
+              "name": "Arcade",
+              "description": "AI-native authentication and security platform for enterprise AI applications",
+              "logo": "/images/arcade-ai.png",
+              "link": "https://www.arcade-ai.com/",
+              "zoom": "80",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "AuthZed",
+              "description": "Authorization That Scales",
+              "logo": "/images/authzed.svg",
+              "link": "https://authzed.com/",
+              "github": "",
+              "x": "@authzed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "AGGREGATION LAYER",
+      "description": "Where AI meets end-users through autonomous agents, assistive tools, and specialized solutions. This layer showcases ready-to-use AI applications and agentic tools.",
+      "sections": [
+        {
+          "name": "Integration platforms",
+          "description": "Aggregation platforms for integrations",
+          "companies": [
+            {
+              "name": "Composio",
+              "description": "Composio provides an integration platform for AI agents and LLMs with 250+ pre-built tools, managed authentication, and RPA capabilities, enabling developers to easily connect their AI applications with various services while maintaining SOC-2 compliance and supporting multiple agent frameworks.",
+              "logo": "/images/composio.svg",
+              "link": "https://composio.dev/",
+              "github": "",
+              "x": "@composiohq"
+            },
+            {
+              "name": "Toolhouse",
+              "description": "Toolhouse provides a cloud infrastructure platform and universal SDK that enables developers to equip LLMs with actions and knowledge through a Tool Store, offering pre-built optimized functions, low-latency execution, and cross-LLM compatibility with just three lines of code.",
+              "logo": "/images/toolhouse.svg",
+              "link": "https://toolhouse.ai/",
+              "github": "",
+              "x": "@ToolhouseAI"
+            },
+            {
+              "name": "Paragon",
+              "description": "Paragon provides a no-code platform for building AI workflows and integrations, enabling teams to quickly connect AI models with enterprise systems and automate complex processes.",
+              "logo": "/images/paragon.png",
+              "link": "https://www.useparagon.com/industry/generative-ai",
+              "github": "",
+              "x": "@useparagon"
+            },
+            {
+              "name": "Arcade",
+              "description": "Arcade provides an AI integration platform that enables teams to build and deploy custom AI solutions with enterprise-grade security and compliance.",
+              "logo": "/images/arcade-ai.png",
+              "zoom": "70",
+              "link": "https://www.arcade-ai.com/",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "Anon",
+              "description": "AI integration and development platform",
+              "logo": "/images/anon.svg",
+              "link": "https://www.anon.com/",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "NPI",
+              "description": "AI integration and automation platform",
+              "logo": "/images/npi.svg",
+              "link": "https://www.npi.ai/",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "PromptQL",
+              "description": "A data access agent with out-of-the-box connectors and agentic query planning.",
+              "logo": "/images/promptql.png",
+              "link": "https://promptql.hasura.io/",
+              "github": "",
+              "x": "",
+              "zoom": "140"
+            }
+          ]
+        },
+        {
+          "name": "Marketplaces & registries",
+          "description": "Marketplaces & registries for tools",
+          "companies": [
+            {
+              "name": "mcp.run",
+              "description": "",
+              "link": "https://www.mcp.run/",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "Smithery",
+              "description": "",
+              "link": "https://smithery.ai/",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "MCP Hub",
+              "description": "",
+              "link": "https://www.aimcp.info/en",
+              "github": "",
+              "x": ""
+            },
+            {
+              "name": "PulseMCP",
+              "description": "",
+              "link": "https://www.pulsemcp.com/",
+              "logo": "/images/pulsemcp.png",
+              "github": "",
+              "x": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
