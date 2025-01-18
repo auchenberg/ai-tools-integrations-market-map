@@ -396,9 +396,11 @@
             },
             {
               "name": "forevervm",
-              "description": "",
-              "link": "https://forevervm.com ",
-              "github": ""
+              "description": "The sessionless code interpreter.",
+              "link": "https://forevervm.com",
+              "logo": "/images/forevervm.svg",
+              "github": "https://github.com/jamsocket/forevervm",
+              "x": "@jamsocketHQ"
             },
             {
               "name": "Daytona",
