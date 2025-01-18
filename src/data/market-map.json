@@ -144,7 +144,6 @@
               "description": "End-to-end platform for deploying and managing AI models, including LLMs, with integrated tools for monitoring, versioning, and scaling.",
               "logo": "/images/vertex.png",
               "link": "https://cloud.google.com/vertex-ai",
-              "hidden": "true",
               "x": "@GoogleAI"
             },
             {
