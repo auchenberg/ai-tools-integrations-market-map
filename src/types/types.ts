@@ -21,9 +21,9 @@ export interface Section {
 
 export interface Company {
   name: string;
-  description: string;
-  logo?: string;
   link: string;
+  description?: string;
+  logo?: string;
   github?: string;
   x?: string;
   zoom?: string;
