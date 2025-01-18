@@ -1,4 +1,4 @@
-const { chromium } = require('playwright-core');
+const { chromium } = require('playwright');
 const { spawn } = require('child_process');
 const waitOn = require('wait-on');
 
