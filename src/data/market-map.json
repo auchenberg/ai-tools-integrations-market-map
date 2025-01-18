@@ -236,14 +236,12 @@
             {
               "name": "TaskWeaver",
               "description": "A framework for creating and managing workflows and tasks for AI agents.",
-              "logo": "",
               "link": "https://microsoft.github.io/TaskWeaver/",
               "github": "https://github.com/microsoft/TaskWeaver"
             },
             {
               "name": "Promptflow",
               "description": "Promptflow is Microsoft's open-source development framework for LLM applications, offering tools for flow creation, testing, evaluation, and deployment, featuring visual flow design through VS Code extension, built-in evaluation metrics, and CI/CD integration capabilities.",
-              "logo": "",
               "link": "https://microsoft.github.io/promptflow/index.html"
             },
             {
