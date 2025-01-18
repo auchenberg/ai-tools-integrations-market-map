@@ -8,3 +8,4 @@ node_modules/
 .next
 .env
 .DS_Store
+**/ .DS_Store
