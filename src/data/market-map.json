@@ -87,7 +87,7 @@
               "link": "https://mistral.ai/",
               "github": "",
               "x": "@MistralAI",
-              "zoom": "90"
+              "zoom": "80"
             },
             {
               "name": "Groq",
@@ -354,7 +354,8 @@
               "logo": "/images/e2b-dev.png",
               "link": "https://e2b.dev/",
               "github": "",
-              "x": "@e2b_dev"
+              "x": "@e2b_dev",
+              "zoom": "80"
             }
           ]
         },
@@ -369,7 +370,8 @@
               "logo": "/images/e2b-dev.png",
               "link": "https://e2b.dev/",
               "github": "",
-              "x": "@e2b_dev"
+              "x": "@e2b_dev",
+              "zoom": "80"
             },
             {
               "name": "GitPod",
