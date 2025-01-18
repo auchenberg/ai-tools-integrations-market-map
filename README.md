@@ -6,7 +6,7 @@
   A market map of startups enabling AIs and agentic systems to interact with the world
 </h3>
 
-<h5 align="center">👉 <a href="#how-to-contribute">Add your startup</a></h5>
+<h5 align="center"><a href="#how-to-contribute">Click here to add your startup to this market map 👉🖱️</a></h5>
 
 <img src="./output/market-map.png" width="100%" alt="AI Enablement Stack" />
  
@@ -31,7 +31,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Credits
 
-A big thanks to [Daytona](https://daytona.io/) for the inspiration on [AI Enablement Stack](https://github.com/daytonaio/ai-enablement-stack).
+A big thanks to [Daytona](https://daytona.io/) for the inspiration with [AI Enablement Stack](https://github.com/daytonaio/ai-enablement-stack).
 
 ## License
 

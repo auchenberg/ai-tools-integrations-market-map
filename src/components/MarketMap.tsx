@@ -74,6 +74,20 @@ export function MarketMap({ data }: { data: MarketMapData }) {
           </div>
         </div>
       ))}
+
+      <div className="mt-8 mb-8 text-center text-[--text-secondary]">
+        <p>
+          Want to add your startup to this market map?{" "}
+          <a
+            href="https://github.com/auchenberg/ai-tools-integrations-market-map?tab=readme-ov-file#how-to-contribute"
+            target="_blank"
+            rel="nofollow noopener noreferrer"
+            className="text-[--text-primary] hover:underline"
+          >
+            Submit a PR on GitHub
+          </a>
+        </p>
+      </div>
     </div>
   );
 }
