@@ -4,7 +4,7 @@ const waitOn = require('wait-on');
 
 async function startServer() {
     return new Promise((resolve, reject) => {
-        const server = spawn('npm', ['run', 'dev'], {
+        const server = spawn('npm', ['run', 'start'], {
             stdio: 'inherit',
             shell: true
         });
