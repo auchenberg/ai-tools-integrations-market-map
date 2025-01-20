@@ -369,8 +369,9 @@
               "zoom": "80"
             },
             {
-              "name": "GitPod",
+              "name": "Gitpod",
               "description": "",
+              "logo": "/images/gitpod.svg",
               "link": "https://www.gitpod.io/",
               "github": "",
               "x": "@gitpod"
