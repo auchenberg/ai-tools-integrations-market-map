@@ -27,6 +27,13 @@
               "logo": "/images/langbase.svg",
               "link": "https://langbase.com/",
               "x": "@langbaseinc"
+            },
+            {
+              "name": "mcp.run",
+              "description": "",
+              "link": "https://www.mcp.run/",
+              "github": "https://github.com/dylibso",
+              "x": "@dylibso"
             }
           ]
         },
@@ -412,6 +419,13 @@
               "link": "https://modal.com/",
               "github": "",
               "x": "@modal_labs"
+            },
+            {
+              "name": "mcp.run",
+              "description": "",
+              "link": "https://www.mcp.run/",
+              "github": "https://github.com/dylibso",
+              "x": "@dylibso"
             }
           ]
         },
@@ -581,6 +595,13 @@
               "link": "https://authzed.com/",
               "github": "",
               "x": "@authzed"
+            },
+            {
+              "name": "mcp.run",
+              "description": "",
+              "link": "https://www.mcp.run/",
+              "github": "https://github.com/dylibso",
+              "x": "@dylibso"
             }
           ]
         }
@@ -652,6 +673,13 @@
               "github": "",
               "x": "",
               "zoom": "140"
+            },
+            {
+              "name": "mcp.run",
+              "description": "",
+              "link": "https://www.mcp.run/",
+              "github": "https://github.com/dylibso",
+              "x": "@dylibso"
             }
           ]
         },
@@ -663,8 +691,8 @@
               "name": "mcp.run",
               "description": "",
               "link": "https://www.mcp.run/",
-              "github": "",
-              "x": ""
+              "github": "https://github.com/dylibso",
+              "x": "@dylibso"
             },
             {
               "name": "Smithery",
