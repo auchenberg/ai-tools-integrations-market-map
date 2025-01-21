@@ -34,7 +34,8 @@
               "link": "https://www.mcp.run/",
               "logo": "/images/mcp.run.svg",
               "github": "https://github.com/dylibso",
-              "x": "@dylibso"
+              "x": "@dylibso",
+              "zoom": 90
             }
           ]
         },
@@ -667,7 +668,8 @@
               "link": "https://www.mcp.run/",
               "logo": "/images/mcp.run.svg",
               "github": "https://github.com/dylibso",
-              "x": "@dylibso"
+              "x": "@dylibso",
+              "zoom": 90
             }
           ]
         },
