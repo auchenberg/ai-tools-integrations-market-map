@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: blue;
+      }
+
+      .cls-2 {
+        fill: #0000f2;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <rect class="cls-2" x="0" y="0" width="18" height="18"/>
+        <rect class="cls-2" y="18" width="18" height="18"/>
+        <rect class="cls-2" x="0" y="36" width="18" height="18"/>
+        <rect class="cls-2" x="0" y="54" width="18" height="18"/>
+        <rect class="cls-2" y="72" width="18" height="18"/>
+        <rect class="cls-2" x="36" y="0" width="18" height="18"/>
+        <rect class="cls-2" x="36" y="18" width="18" height="18"/>
+        <rect class="cls-2" x="36" y="36" width="18" height="18"/>
+        <rect class="cls-2" x="36" y="54" width="18" height="18"/>
+        <rect class="cls-2" x="36" y="72" width="18" height="18"/>
+        <rect class="cls-2" x="72" y="0" width="18" height="18"/>
+        <rect class="cls-2" x="72" y="18" width="18" height="18"/>
+        <rect class="cls-2" x="72" y="36" width="18" height="18"/>
+        <rect class="cls-2" x="72" y="54" width="18" height="18"/>
+        <rect class="cls-2" x="72" y="72" width="18" height="18"/>
+        <polygon class="cls-2" points="11.12 18 36 18 36 0 11.12 18"/>
+        <polygon class="cls-2" points="47.12 18 72 18 72 0 47.12 18"/>
+      </g>
+      <g>
+        <rect class="cls-2" x="126" y="0" width="18" height="18" transform="translate(126 144) rotate(-90)"/>
+        <rect class="cls-2" x="126" y="72" width="18" height="18" transform="translate(54 216) rotate(-90)"/>
+        <rect class="cls-2" x="144" y="0" width="18" height="18" transform="translate(144 162) rotate(-90)"/>
+        <rect class="cls-2" x="144" y="72" width="18" height="18" transform="translate(72 234) rotate(-90)"/>
+        <rect class="cls-2" x="162" y="0" width="18" height="18" transform="translate(162 180) rotate(-90)"/>
+        <rect class="cls-2" x="162" y="72" width="18" height="18" transform="translate(90 252) rotate(-90)"/>
+        <rect class="cls-2" x="99" y="18" width="18" height="18"/>
+        <rect class="cls-2" x="99" y="36" width="18" height="18"/>
+        <rect class="cls-2" x="99" y="54" width="18" height="18"/>
+        <polygon class="cls-2" points="99 18 126 18 126 0 99 18"/>
+        <polygon class="cls-2" points="99 72 126 72 126 90 99 72"/>
+      </g>
+      <g>
+        <rect class="cls-2" x="189" y="0" width="18" height="18" transform="translate(189 207) rotate(-90)"/>
+        <rect class="cls-2" x="207" y="0" width="18" height="18" transform="translate(207 225) rotate(-90)"/>
+        <rect class="cls-2" x="225" y="0" width="18" height="18" transform="translate(225 243) rotate(-90)"/>
+        <rect class="cls-2" x="189" y="72" width="18" height="18" transform="translate(117 279) rotate(-90)"/>
+        <rect class="cls-2" x="207" y="72" width="18" height="18" transform="translate(135 297) rotate(-90)"/>
+        <rect class="cls-2" x="225" y="72" width="18" height="18" transform="translate(153 315) rotate(-90)"/>
+        <rect class="cls-2" x="189" y="18" width="18" height="18"/>
+        <rect class="cls-2" x="189" y="36" width="18" height="18"/>
+        <rect class="cls-2" x="189" y="54" width="18" height="18"/>
+        <rect class="cls-2" x="189" y="90" width="18" height="18"/>
+        <rect class="cls-2" x="189" y="108" width="18" height="18"/>
+        <rect class="cls-2" x="252" y="18" width="18" height="18"/>
+        <rect class="cls-2" x="252" y="36" width="18" height="18"/>
+        <rect class="cls-2" x="252" y="54" width="18" height="18"/>
+        <polygon class="cls-2" points="270 18 243 18 243 0 270 18"/>
+        <polygon class="cls-2" points="270 72 243 72 243 90 270 72"/>
+      </g>
+      <g>
+        <rect class="cls-2" x="552" y="18" width="18" height="18"/>
+        <rect class="cls-2" x="552" y="36" width="18" height="18"/>
+        <rect class="cls-2" x="489" y="18" width="18" height="18"/>
+        <rect class="cls-2" x="489" y="36" width="18" height="18"/>
+        <rect class="cls-2" x="552" y="0" width="18" height="18" transform="translate(570 -552) rotate(90)"/>
+        <rect class="cls-2" x="529.5" y="-4.5" width="18" height="27" transform="translate(547.5 -529.5) rotate(90)"/>
+        <rect class="cls-2" x="552" y="54" width="18" height="18" transform="translate(624 -498) rotate(90)"/>
+        <rect class="cls-2" x="507" y="0" width="18" height="18" transform="translate(525 -507) rotate(90)"/>
+        <rect class="cls-2" x="489" y="54" width="18" height="18" transform="translate(561 -435) rotate(90)"/>
+        <rect class="cls-2" x="552" y="72" width="18" height="18" transform="translate(642 -480) rotate(90)"/>
+        <rect class="cls-2" x="489" y="72" width="18" height="18" transform="translate(579 -417) rotate(90)"/>
+        <polygon class="cls-2" points="516 18 489 18 489 0 516 18"/>
+      </g>
+      <g>
+        <polygon class="cls-2" points="399 72 426 72 426 90 399 72"/>
+        <rect class="cls-2" x="399" y="54" width="18" height="18" transform="translate(816 126) rotate(180)"/>
+        <rect class="cls-2" x="399" y="36" width="18" height="18" transform="translate(816 90) rotate(180)"/>
+        <rect class="cls-2" x="462" y="54" width="18" height="18" transform="translate(942 126) rotate(180)"/>
+        <rect class="cls-2" x="462" y="36" width="18" height="18" transform="translate(942 90) rotate(180)"/>
+        <polygon class="cls-2" points="435 72 435 90 417 81 417 72 435 72"/>
+        <rect class="cls-2" x="430.5" y="67.5" width="18" height="27" transform="translate(358.5 520.5) rotate(-90)"/>
+        <rect class="cls-2" x="399" y="18" width="18" height="18" transform="translate(381 435) rotate(-90)"/>
+        <polygon class="cls-2" points="462 72 462 81 444 90 444 72 462 72"/>
+        <rect class="cls-2" x="462" y="0" width="18" height="18" transform="translate(462 480) rotate(-90)"/>
+        <rect class="cls-2" x="399" width="18" height="18" transform="translate(399 417) rotate(-90)"/>
+        <rect class="cls-2" x="462" y="18" width="18" height="18" transform="translate(444 498) rotate(-90)"/>
+        <polygon class="cls-2" points="480 72 453 72 453 90 480 72"/>
+      </g>
+      <g>
+        <rect class="cls-2" x="336" y="0" width="18" height="18" transform="translate(336 354) rotate(-90)"/>
+        <rect class="cls-2" x="354" y="0" width="18" height="18" transform="translate(354 372) rotate(-90)"/>
+        <rect class="cls-2" x="372" y="0" width="18" height="18" transform="translate(372 390) rotate(-90)"/>
+        <rect class="cls-2" x="318" y="72" width="18" height="18" transform="translate(246 408) rotate(-90)"/>
+        <rect class="cls-2" x="318" y="18" width="18" height="18"/>
+        <rect class="cls-2" x="318" y="36" width="18" height="18"/>
+        <rect class="cls-2" x="318" y="54" width="18" height="18"/>
+        <polygon class="cls-2" points="345 18 318 18 318 0 345 18"/>
+      </g>
+    </g>
+    <rect class="cls-1" x="280.88" y="50.37" width="25.26" height="25.26" transform="translate(-6.32 77.77) rotate(-14.93)"/>
+  </g>
+</svg>
