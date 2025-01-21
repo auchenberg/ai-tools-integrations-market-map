@@ -27,6 +27,14 @@
               "logo": "/images/langbase.svg",
               "link": "https://langbase.com/",
               "x": "@langbaseinc"
+            },
+            {
+              "name": "mcp.run",
+              "description": "Run portable and secure tools from your Agents and AI Apps across languages, models, OS, and devices. Use Tasks to compose tools called from parameterized Prompts from your own triggers.",
+              "link": "https://www.mcp.run/",
+              "logo": "/images/mcp.run.svg",
+              "github": "https://github.com/dylibso",
+              "x": "@dylibso"
             }
           ]
         },
@@ -652,6 +660,14 @@
               "github": "",
               "x": "",
               "zoom": "140"
+            },
+            {
+              "name": "mcp.run",
+              "description": "Combine servlet tools directly or via Tasks to connect systems and automate your work. With fully customizable tools, your prompts can integrate any systems and create composable & intelligent microservices.",
+              "link": "https://www.mcp.run/",
+              "logo": "/images/mcp.run.svg",
+              "github": "https://github.com/dylibso",
+              "x": "@dylibso"
             }
           ]
         },
@@ -659,13 +675,6 @@
           "name": "Marketplaces & registries",
           "description": "Marketplaces & registries for tools",
           "companies": [
-            {
-              "name": "mcp.run",
-              "description": "",
-              "link": "https://www.mcp.run/",
-              "github": "",
-              "x": ""
-            },
             {
               "name": "Smithery",
               "description": "",
