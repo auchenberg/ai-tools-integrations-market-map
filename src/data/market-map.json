@@ -420,14 +420,6 @@
               "link": "https://modal.com/",
               "github": "",
               "x": "@modal_labs"
-            },
-            {
-              "name": "mcp.run",
-              "description": "Execute untrusted code in multiple languages, locally or in our serverless runtime. Powered by WebAssembly, mcp.run executes code in the most lightweight environment with practically no cold-starts.",
-              "link": "https://www.mcp.run/",
-              "logo": "/images/mcp.run.svg",
-              "github": "https://github.com/dylibso",
-              "x": "@dylibso"
             }
           ]
         },
@@ -683,14 +675,6 @@
           "name": "Marketplaces & registries",
           "description": "Marketplaces & registries for tools",
           "companies": [
-            {
-              "name": "mcp.run",
-              "description": "Universal tools for AI. Distribute, share, install, and control tools to enhance your LLM, Agents or AI Applications. Everything from our registry runs embedded in programs of all languages, is portable across platforms and devices, and runs locally or remotely on your platform or ours.",
-              "link": "https://www.mcp.run/",
-              "logo": "/images/mcp.run.svg",
-              "github": "https://github.com/dylibso",
-              "x": "@dylibso"
-            },
             {
               "name": "Smithery",
               "description": "",
