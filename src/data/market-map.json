@@ -35,7 +35,7 @@
               "logo": "/images/mcp.run.svg",
               "github": "https://github.com/dylibso",
               "x": "@dylibso",
-              "zoom": 90
+              "zoom": "90"
             }
           ]
         },
@@ -360,6 +360,13 @@
               "github": "",
               "x": "@e2b_dev",
               "zoom": "80"
+            },
+            {
+              "name": "Pig",
+              "description": "Pig is an API to launch and automate Windows apps.",
+              "link": "https://www.pig.dev/",
+              "logo" : "/images/pig.png",
+              "github": ""
             }
           ]
         },
@@ -669,7 +676,7 @@
               "logo": "/images/mcp.run.svg",
               "github": "https://github.com/dylibso",
               "x": "@dylibso",
-              "zoom": 90
+              "zoom": "90"
             }
           ]
         },
