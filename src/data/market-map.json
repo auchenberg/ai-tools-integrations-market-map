@@ -612,6 +612,14 @@
           "description": "Aggregation platforms for integrations",
           "companies": [
             {
+              "name": "Pipedream",
+              "description": "Pipedream Connect provides managed authentication, approved client IDs, durable components, and infrastructure for running serverless functions, across 2500+ integrated applications. One SDK, thousands of API integrations in your app or AI agent.",
+              "logo": "/images/pipedream.svg",
+              "link": "https://pipedream.com/connect",
+              "github": "https://github.com/PipedreamHQ/pipedream",
+              "x": "@pipedream"
+            },
+            {
               "name": "Composio",
               "description": "Composio provides an integration platform for AI agents and LLMs with 250+ pre-built tools, managed authentication, and RPA capabilities, enabling developers to easily connect their AI applications with various services while maintaining SOC-2 compliance and supporting multiple agent frameworks.",
               "logo": "/images/composio.svg",
