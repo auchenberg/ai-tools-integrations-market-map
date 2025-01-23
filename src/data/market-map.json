@@ -612,36 +612,12 @@
           "description": "Aggregation platforms for integrations",
           "companies": [
             {
-              "name": "Pipedream",
-              "description": "Pipedream Connect provides managed authentication, approved client IDs, durable components, and infrastructure for running serverless functions, across 2500+ integrated applications. One SDK, thousands of API integrations in your app or AI agent.",
-              "logo": "/images/pipedream.svg",
-              "link": "https://pipedream.com/connect",
-              "github": "https://github.com/PipedreamHQ/pipedream",
-              "x": "@pipedream"
-            },
-            {
-              "name": "Composio",
-              "description": "Composio provides an integration platform for AI agents and LLMs with 250+ pre-built tools, managed authentication, and RPA capabilities, enabling developers to easily connect their AI applications with various services while maintaining SOC-2 compliance and supporting multiple agent frameworks.",
-              "logo": "/images/composio.svg",
-              "link": "https://composio.dev/",
+              "name": "Anon",
+              "description": "AI integration and development platform",
+              "logo": "/images/anon.svg",
+              "link": "https://www.anon.com/",
               "github": "",
-              "x": "@composiohq"
-            },
-            {
-              "name": "Toolhouse",
-              "description": "Toolhouse provides a cloud infrastructure platform and universal SDK that enables developers to equip LLMs with actions and knowledge through a Tool Store, offering pre-built optimized functions, low-latency execution, and cross-LLM compatibility with just three lines of code.",
-              "logo": "/images/toolhouse.svg",
-              "link": "https://toolhouse.ai/",
-              "github": "",
-              "x": "@ToolhouseAI"
-            },
-            {
-              "name": "Paragon",
-              "description": "Paragon provides a no-code platform for building AI workflows and integrations, enabling teams to quickly connect AI models with enterprise systems and automate complex processes.",
-              "logo": "/images/paragon.png",
-              "link": "https://www.useparagon.com/industry/generative-ai",
-              "github": "",
-              "x": "@useparagon"
+              "x": ""
             },
             {
               "name": "Arcade",
@@ -653,12 +629,21 @@
               "x": ""
             },
             {
-              "name": "Anon",
-              "description": "AI integration and development platform",
-              "logo": "/images/anon.svg",
-              "link": "https://www.anon.com/",
+              "name": "Composio",
+              "description": "Composio provides an integration platform for AI agents and LLMs with 250+ pre-built tools, managed authentication, and RPA capabilities, enabling developers to easily connect their AI applications with various services while maintaining SOC-2 compliance and supporting multiple agent frameworks.",
+              "logo": "/images/composio.svg",
+              "link": "https://composio.dev/",
               "github": "",
-              "x": ""
+              "x": "@composiohq"
+            },
+            {
+              "name": "mcp.run",
+              "description": "Combine servlet tools directly or via Tasks to connect systems and automate your work. With fully customizable tools, your prompts can integrate any systems and create composable & intelligent microservices.",
+              "link": "https://www.mcp.run/",
+              "logo": "/images/mcp.run.svg",
+              "github": "https://github.com/dylibso",
+              "x": "@dylibso",
+              "zoom": "90"
             },
             {
               "name": "NPI",
@@ -667,6 +652,22 @@
               "link": "https://www.npi.ai/",
               "github": "",
               "x": ""
+            },
+            {
+              "name": "Paragon",
+              "description": "Paragon provides a no-code platform for building AI workflows and integrations, enabling teams to quickly connect AI models with enterprise systems and automate complex processes.",
+              "logo": "/images/paragon.png",
+              "link": "https://www.useparagon.com/industry/generative-ai",
+              "github": "",
+              "x": "@useparagon"
+            },
+            {
+              "name": "Pipedream",
+              "description": "Pipedream Connect provides managed authentication, approved client IDs, durable components, and infrastructure for running serverless functions, across 2500+ integrated applications. One SDK, thousands of API integrations in your app or AI agent.",
+              "logo": "/images/pipedream.svg",
+              "link": "https://pipedream.com/connect",
+              "github": "https://github.com/PipedreamHQ/pipedream",
+              "x": "@pipedream"
             },
             {
               "name": "PromptQL",
@@ -678,13 +679,12 @@
               "zoom": "140"
             },
             {
-              "name": "mcp.run",
-              "description": "Combine servlet tools directly or via Tasks to connect systems and automate your work. With fully customizable tools, your prompts can integrate any systems and create composable & intelligent microservices.",
-              "link": "https://www.mcp.run/",
-              "logo": "/images/mcp.run.svg",
-              "github": "https://github.com/dylibso",
-              "x": "@dylibso",
-              "zoom": "90"
+              "name": "Toolhouse",
+              "description": "Toolhouse provides a cloud infrastructure platform and universal SDK that enables developers to equip LLMs with actions and knowledge through a Tool Store, offering pre-built optimized functions, low-latency execution, and cross-LLM compatibility with just three lines of code.",
+              "logo": "/images/toolhouse.svg",
+              "link": "https://toolhouse.ai/",
+              "github": "",
+              "x": "@ToolhouseAI"
             }
           ]
         },
