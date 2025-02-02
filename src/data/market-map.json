@@ -63,6 +63,14 @@
               "link": "https://github.com/modelcontextprotocol",
               "github": "",
               "x": "@AnthropicAI"
+            },
+            {
+              "name": "Web Applets",
+              "description": "An open protocol for building software that both humans and AI can understand and use together",
+              "logo": "/images/web-applets.png",
+              "link": "https://github.com/unternet-co/web-applets/",
+              "github": "",
+              "x": ""
             }
           ]
         },
