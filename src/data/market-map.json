@@ -685,6 +685,14 @@
               "link": "https://toolhouse.ai/",
               "github": "",
               "x": "@ToolhouseAI"
+            },
+            {
+              "name": "Wildcard",
+              "description": "Wildcard is the translation layer between APIs and LLMs, making APIs “just work” with AI Agents. Creators of agents.json.",
+              "logo": "/images/wildcard.png",
+              "link": "https://wild-card.ai/",
+              "github": "https://github.com/wild-card-ai/",
+              "x": "@wildcard_ai"
             }
           ]
         },
