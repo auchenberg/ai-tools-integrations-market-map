@@ -605,6 +605,14 @@
               "link": "https://authzed.com/",
               "github": "",
               "x": "@authzed"
+            },
+            {
+              "name": "Stytch",
+              "description": "Authentication, authorization and fraud prevention for humans and AI agents",
+              "logo": "/images/stytch.svg",
+              "link": "https://stytch.com/",
+              "github": "https://github.com/stytchauth",
+              "x": "@stytchauth"
             }
           ]
         }
