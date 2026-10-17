@@ -635,6 +635,14 @@
           "description": "Aggregation platforms for integrations",
           "companies": [
             {
+              "name": "Aident Loadout",
+              "description": "Aident Loadout is a capability layer for AI agents: connect your apps once and reuse them across Codex, Claude Code, Cursor, ChatGPT and any MCP client through one remote MCP server, CLI or Skill. Includes 400+ expert-built Skills, a vault that keeps credentials hidden from the model, cost preflight before actions run, and an audit log of every action.",
+              "logo": "/images/aident-loadout.png",
+              "link": "https://aident.ai/",
+              "github": "https://github.com/Aident-AI",
+              "x": ""
+            },
+            {
               "name": "Anon",
               "description": "AI integration and development platform",
               "logo": "/images/anon.svg",
