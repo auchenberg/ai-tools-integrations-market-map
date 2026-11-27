@@ -436,6 +436,13 @@
               "link": "https://modal.com/",
               "github": "",
               "x": "@modal_labs"
+            },
+            {
+              "name": "Sandscale",
+              "description": "Sandscale gives each AI coding agent run its own Firecracker microVM, with sandboxes, workspaces and build hosts that agents drive over a remote MCP server, CLI or TypeScript SDK, plus per-tool policies, approvals and an audit log.",
+              "logo": "/images/sandscale.png",
+              "link": "https://sandscale.dev/",
+              "github": "https://github.com/sandscale"
             }
           ]
         },
